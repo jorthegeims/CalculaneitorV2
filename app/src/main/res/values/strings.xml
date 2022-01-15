@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora de fuerzas</string>
+    <string name="etn1">fuerza 1</string>
+    <string name="etn2">fuerza 2</string>
+    <string name="angulo_et1">angulo 1</string>
+    <string name="angulo_et2">angulo 2</string>
+    <string name="button">calcular</string>
+    <string name="graficar">graficar</string>
+    <string name="imagebutton">añade</string>
+    <string name="tv">Resultado:</string>
+    <string name="siguienteG">siguiente</string>
+    <string name="anteriorG">anterior</string>
+</resources>
